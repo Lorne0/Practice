@@ -19,7 +19,7 @@
 # 說明
 1. 先畫出狀態機:
     
-    ![](drawio/fsm.drawio.svg)
+![](drawio/fsm.drawio.svg)
 
 
 2. 根據狀態機寫出 test cases
@@ -42,6 +42,7 @@
     - string (front/back) -> pop
 
 3. 再開始實作 deque
+
     linked-list node:
     
     ![](drawio/node.drawio.svg)
