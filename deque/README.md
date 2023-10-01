@@ -1,5 +1,5 @@
 
 
-![alt text](./node.drawio.svg)
+![](./node.drawio.svg)
 
 
