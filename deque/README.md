@@ -1,5 +1,5 @@
 
 
-![](./node.drawio.svg)
+![](drawio/node.drawio.svg)
 
 
