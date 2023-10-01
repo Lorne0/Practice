@@ -18,7 +18,9 @@
 
 # 說明
 1. 先畫出狀態機:
-![](drawio/fsm.drawio.svg)
+    
+    ![](drawio/fsm.drawio.svg)
+
 
 2. 根據狀態機寫出 test cases
     ```python
